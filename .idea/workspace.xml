@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fb2fe7e-fdea-4342-b189-d205e7bdd63d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/billing_programme.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/details.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite_with_tkinter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,9 +28,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.billing_programme.executor": "Run",
+    "Python.sqlite_with_tkinter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/macbook/Desktop/pyminiprojects"
+    "last_opened_file_path": "/Users/macbook/Desktop/pyminiprojects",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -50,5 +53,8 @@
       <updated>1751448452432</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.db" />
   </component>
 </project>
