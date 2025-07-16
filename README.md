@@ -19,3 +19,21 @@ Tkinter - Graphical interface
 SQLite3 - Built-in database
 
 DB-API - Database operations
+
+
+💰 Discount Calculator (Tkinter) 
+
+Simple GUI application that calculates discounted prices based on purchase amount.
+
+✨ Features
+
+- 🧮 Automatic discount calculation (10% or 20%)
+- 💵 Formatted currency output
+- 🛡️ Input validation
+- 🖥️ Clean and intuitive interface
+
+🧰 Technologies
+
+- **Python 3.7+**
+- **Tkinter** (Standard GUI library)
+- **Math operations** for precise calculations
