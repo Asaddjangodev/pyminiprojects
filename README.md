@@ -1,3 +1,4 @@
+--------------------------------------------------------------------
 🏆 User Registration App (Tkinter + SQLite) - sqlite_with_tkinter.py
 
 Simple user registration application with GUI and database.
@@ -20,8 +21,8 @@ SQLite3 - Built-in database
 
 DB-API - Database operations
 
-
-💰 Discount Calculator (Tkinter) 
+-------------------------------------------------------
+💰 Discount Calculator (Tkinter) - billing_programme.py
 
 Simple GUI application that calculates discounted prices based on purchase amount.
 
