@@ -1,4 +1,4 @@
-🏆 User Registration App (Tkinter + SQLite)
+🏆 User Registration App (Tkinter + SQLite) - sqlite_with_tkinter.py
 
 Simple user registration application with GUI and database.
 
